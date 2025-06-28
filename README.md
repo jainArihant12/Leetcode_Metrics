@@ -4,7 +4,8 @@
 LeetCode Metrics is a simple and effective tool to visualize your LeetCode problem-solving progress. It provides a clear breakdown of problems solved by difficulty — Easy, Medium, and Hard — helping you track consistency, measure growth, and showcase your coding discipline.
 
 #   Screenshot 
- ![LeetCode Metrics Screenshot](./Screenshot.png)
+
+ ![LeetCode Metrics Screenshot](./Screenshot1.png)  ![LeetCode Metrics Screenshot](./Screenshot.png)
 
 ## Features
 
